@@ -1,0 +1,41 @@
+body {
+  font-family: "Montserrat", sans-serif !important;
+}
+
+.padding-top-2 {
+  padding-top: 2px;
+}
+
+.padding-bottom-1 {
+  padding-bottom: 1px;
+}
+
+.email-field {
+  padding: 3px;
+  border: 0;
+  border-radius: 5px;
+}
+
+.bg-cyan {
+  background-color: #17a2b8;
+}
+
+.bg-orange {
+  background-color: orange;
+}
+
+.btn-orange {
+  background-color: orange;
+  color: white;
+}
+
+.btn-orange:hover {
+  background-color: orange;
+  color: white;
+  text-decoration: none;
+}
+
+.nav-link {
+  color: #fff !important;
+  font-weight: 500;
+}
