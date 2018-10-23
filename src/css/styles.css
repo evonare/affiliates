@@ -2,6 +2,10 @@ body {
   font-family: "Montserrat", sans-serif !important;
 }
 
+.padding {
+  padding-bottom: 2rem;
+}
+
 .padding-top-2 {
   padding-top: 2px;
 }
@@ -38,4 +42,18 @@ body {
 .nav-link {
   color: #fff !important;
   font-weight: 500;
+}
+
+.no-border {
+  border: none;
+}
+
+.card-product-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.card-product-link:hover {
+  text-decoration: none;
+  color: inherit;
 }
