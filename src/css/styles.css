@@ -57,3 +57,13 @@ body {
   text-decoration: none;
   color: inherit;
 }
+
+.no-link-decorations {
+  text-decoration: none;
+  color: inherit;
+}
+
+.no-link-decorations:hover {
+  text-decoration: none !important;
+  color: inherit;
+}
