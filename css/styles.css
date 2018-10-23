@@ -95,3 +95,49 @@ hr {
   color: orange !important;
   background: #ffc107;
 }
+
+/* Footer Styles */
+footer p a {
+  text-decoration: none;
+  color: inherit;
+}
+footer p a:hover {
+  text-decoration: none;
+  color: #ffc107;
+}
+
+.footer-menu-name {
+  color: white !important;
+  font-weight: 600;
+}
+
+.footer-menu-link {
+  color: white !important;
+  font-weight: 500;
+}
+.footer-menu-link:hover {
+  color: #ffc107 !important;
+  font-weight: 500;
+  text-decoration: none;
+}
+
+.footer-menu-text {
+  color: white !important;
+}
+
+.footer-brand {
+  font-weight: 300;
+  font-size: 25px;
+  color: white !important;
+}
+
+.footer-social-link {
+  font-size: 32px;
+  color: white;
+  padding: 5px;
+}
+.footer-social-link:hover {
+  font-size: 32px;
+  color: #ffc107;
+  text-decoration: none;
+}
