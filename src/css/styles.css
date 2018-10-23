@@ -95,3 +95,13 @@ hr {
   color: orange !important;
   background: #ffc107;
 }
+
+/* Footer Styles */
+footer p a {
+  text-decoration: none;
+  color: inherit;
+}
+footer p a:hover {
+  text-decoration: none;
+  color: #ffc107;
+}
