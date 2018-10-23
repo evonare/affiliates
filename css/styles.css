@@ -43,9 +43,32 @@ body {
   color: #fff !important;
   font-weight: 500;
 }
+.nav-link:hover {
+  color: black !important;
+  font-weight: 500;
+}
+
+.active {
+  color: black !important;
+}
+
+.dropdown-menu {
+  background: #ffc107 !important;
+  border: 0;
+  color: white !important;
+}
+
+.dropdown-nav-link {
+  color: orange;
+  font-weight: 500;
+}
 
 .no-border {
   border: none;
+}
+
+.no-border-radius {
+  border-radius: 0;
 }
 
 .card-product-link {
@@ -66,4 +89,9 @@ body {
 .no-link-decorations:hover {
   text-decoration: none !important;
   color: inherit;
+}
+
+hr {
+  color: orange !important;
+  background: #ffc107;
 }
