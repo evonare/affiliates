@@ -28,6 +28,10 @@ body {
   background-color: orange;
 }
 
+.bg-yellow {
+  background-color: yellow !important;
+}
+
 .btn-orange {
   background-color: orange;
   color: white;
@@ -37,6 +41,16 @@ body {
   background-color: orange;
   color: white;
   text-decoration: none;
+}
+
+.btn-purple {
+  color: #fff;
+  background-color: indigo;
+}
+
+.btn-purple:hover {
+  color: #fff;
+  background-color: purple;
 }
 
 .nav-link {
@@ -140,4 +154,9 @@ footer p a:hover {
   font-size: 32px;
   color: #ffc107;
   text-decoration: none;
+}
+
+/* Design Fixes */
+.divcenter {
+  padding: 2rem 0px;
 }
