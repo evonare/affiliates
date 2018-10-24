@@ -43,14 +43,9 @@ body {
   text-decoration: none;
 }
 
-.btn-purple {
+.bg-indigo {
   color: #fff;
-  background-color: indigo;
-}
-
-.btn-purple:hover {
-  color: #fff;
-  background-color: purple;
+  background-color: #4e5ea6;
 }
 
 .nav-link {
