@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vruqa/affiliates.git"
+    "url": "git+https://github.com/appzaib/affiliates.git"
   },
   "keywords": [],
   "author": "Rana Jahanzaib",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/vruqa/affiliates/issues"
+    "url": "https://github.com/appzaib/affiliates/issues"
   },
-  "homepage": "https://github.com/vruqa/affiliates#readme",
+  "homepage": "https://github.com/appzaib/affiliates#readme",
   "dependencies": {
     "bootstrap": "^4.1.3",
     "font-awesome": "^4.7.0",
